@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1547563618 source:e:\programming\frequency_table\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
