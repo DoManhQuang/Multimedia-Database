@@ -1,6 +1,6 @@
 # MMDB
 MMDB
-# How to using
+## How to using
     Input_Data is not standardized
     Input_Data_FB is standardized
     Output_Data is result
@@ -13,5 +13,5 @@ MMDB
           * Output_data();
       */
 	  run...
-  # Help 
-  Contact @DoManhQuang
+  ## Help 
+  Contact Github [DoManhQuang] (https://github.com/DoManhQuang) or [Facebook] (https://www.facebook.com/ManhQuangITBlue)
