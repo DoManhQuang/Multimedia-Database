@@ -1,4 +1,4 @@
-#Frequency Table
+# Frequency Table
 ## How to using
     Input_Data is not standardized
     Input_Data_FB is standardized
