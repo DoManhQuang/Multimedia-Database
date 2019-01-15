@@ -14,4 +14,4 @@ MMDB
       */
 	  run...
   ## Help 
-  Contact Github [DoManhQuang] (https://github.com/DoManhQuang) or [Facebook] (https://www.facebook.com/ManhQuangITBlue)
+  Contact [Github](https://github.com/DoManhQuang) or [@DoManhQuang](https://www.facebook.com/ManhQuangITBlue)
