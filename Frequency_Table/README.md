@@ -7,9 +7,9 @@
       run..
     else if(Input_Data_FB)
       /** Close the function . 
-      * Arrays_Sum_Col();
-          * Frequency_Table();
-          * Output_data();
+       *  Arrays_Sum_Col();
+       *  Frequency_Table();
+       *  Output_data();
       */
 	  run...
   ## Help 
