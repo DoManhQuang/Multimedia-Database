@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1548582146 source:e:\programming\multimedia database\inverted file\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
