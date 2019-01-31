@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1548730825 source:e:\programming\multimedia database\levenshtein\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
