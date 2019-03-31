@@ -18,7 +18,7 @@
 	3. While not end of input  stream.
 	4.     C = next input character
 	5. 	   If P + C is in the string table.
-	6.			P = P + C
+	6.		P = P + C
 	7.	   ELSE
     8.	   		Output the code for P
     9.			Add P + C to the string table.
@@ -34,12 +34,12 @@
 	4. While not end of input  stream.
 	5.     New = next input code.
 	6.     If New is not in string table.
-    7.	   		S = translation of OLD.
-    8. 			C = first character of S.
-	9.			S = S + C.
-	10.	   Else
-	11.			S = translation of New.
-	12.	   Output S.
+    	7.	   	S = translation of OLD.
+    	8. 	   	C = first character of S.
+	9.	   	S = S + C.
+	10.    Else
+	11.		S = translation of New.
+	12.    Output S.
 	13.    C = first character of S.
 	14.    OLD + C to the string table.
 	15.    OLD = New.
